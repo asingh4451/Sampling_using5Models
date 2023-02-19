@@ -1,4 +1,4 @@
-# Sampling_using5Models
+# Sampling_using5Techniques
 Sampling of Credit Card Fraud Dataset
 Experimentation on how different sampling methods affect the accuracy of the ML Models
 
