@@ -4,16 +4,16 @@ Experimentation on how different sampling methods affect the accuracy of the ML 
 
 List of ML-Models used:
 
-. Logistic Regression 
-. Support Vector Machine 
-. Decision Tree
-. Naive Bayes 
-. Random Forest Classifier
+* Logistic Regression 
+* Support Vector Machine 
+* Decision Tree
+* Naive Bayes 
+* Random Forest Classifier
 
 
 List of Sampling Techniques used:
 
-. Simple Random Sampling
-. Systematic Sampling
-. Cluster Sampling
-. Stratified Sampling
+* Simple Random Sampling
+* Systematic Sampling
+* Cluster Sampling
+* Stratified Sampling
